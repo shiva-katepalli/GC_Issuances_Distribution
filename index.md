@@ -23,8 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link](https://github.com/shiva-katepalli/GC_Issuances_Distribution/blob/master/Outputs/EmployGCDist.html) 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
